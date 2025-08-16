@@ -41,15 +41,13 @@ The system features an **interactive dashboard** that visualizes detected emotio
 ---
 
 ## 📷 Screenshots
-<img width="1207" height="887" alt="image" src="https://github.com/user-attachments/assets/777d6a31-4101-4839-aab3-cdf404c53ac9" />
-
+<img width="1796" height="817" alt="image" src="https://github.com/user-attachments/assets/e25b8f7a-d820-4dbb-a36d-54af72787dbf" />
 
 
 <img width="1882" height="853" alt="image" src="https://github.com/user-attachments/assets/3aae037d-7564-4979-b6c7-43c99d061197" />
 
 
+<img width="1642" height="784" alt="image" src="https://github.com/user-attachments/assets/ee544470-13f3-4bab-b5fa-adfd54b1bf66" />
 
-
-<img width="1280" height="684" alt="image" src="https://github.com/user-attachments/assets/22e0a263-5c6e-4703-85d7-5614105e43a7" />
 
 
