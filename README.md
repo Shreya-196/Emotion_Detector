@@ -45,7 +45,8 @@ The system features an **interactive dashboard** that visualizes detected emotio
 
 
 
-<img width="1207" height="901" alt="image" src="https://github.com/user-attachments/assets/c56db4d2-6977-42fd-bd06-f10d61b8898a" />
+<img width="1882" height="853" alt="image" src="https://github.com/user-attachments/assets/3aae037d-7564-4979-b6c7-43c99d061197" />
+
 
 
 
